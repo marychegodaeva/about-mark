@@ -1,2 +1,2 @@
 # the-website-about-mark-
-Учебный проект
+student project to create a website
