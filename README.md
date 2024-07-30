@@ -3,7 +3,7 @@ student project to create a website
 
 ![image](https://github.com/user-attachments/assets/07f0d55c-4c2b-4cf9-94d1-560af9be8d78)
 
-A project developed as part of the training. It is an "About Me" page.  It is made in HTML, CSS style sheets were also used in the process. Flexbox technology is used. Adaptive versions are implemented.
+A project developed as part of the training on the layout from Figma. It is an "About Me" page.  It is made in HTML, CSS style sheets were also used in the process. Flexbox technology is used. Adaptive versions are implemented.
 
 It contains the blocks "social networks", "bio", "work experience" and "portfolio".
 
@@ -18,5 +18,5 @@ It contains the blocks "social networks", "bio", "work experience" and "portfoli
 
 <hr>
 
-Проект, разработанный в рамках обучения. Представляет собой страницу "Обо мне".  Выполнен на языке HTML, также в процессе работы использовались таблицы стилей CSS. Использована технология flexbox. Реализованы адаптивные версии. 
+Проект, разработанный в рамках обучения по макету из Figma. Представляет собой страницу "Обо мне".  Выполнен на языке HTML, также в процессе работы использовались таблицы стилей CSS. Использована технология flexbox. Реализованы адаптивные версии. 
 Содержит блоки "соцсети", "био", "опыт работы" и "портфолио".
